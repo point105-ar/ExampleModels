@@ -8,7 +8,7 @@ This repository contains example 3D models that demonstrate the use of Point105-
 # 3DS Max using V-Ray Materials to glTF and USDZ
 <br/>
 <link>https://www.point105ar.com/home/converting-3ds-max-models-using-v-ray-to-gltf-and-usdz/</link>
-<br />
+<br /><br/>
 
 <b>MC-VRay</b> : Contains a chair example that uses V-Ray materials on 3DS Max. This chair contains wood and fabric material.
 1. \*render.jpg : This is a render output using V-Ray's engine.
