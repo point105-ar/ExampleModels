@@ -1,4 +1,4 @@
-# ExampleModels
+# Point105-AR Example Models
 Point105-AR: Hassle-free conversion of 3D content to glTF and USDZ
 
 Website: https://www.point105ar.com
